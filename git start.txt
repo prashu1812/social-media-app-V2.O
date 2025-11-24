@@ -1,5 +1,5 @@
-now i know git add,commit -m , git status , git log, git push origin main , git checkout newbranch.
-need to know more about git 
-sare ippudu next nti pull push tarvatha
+hello world 
+this is prashanth.
+i have 2.5 experience
 
 
